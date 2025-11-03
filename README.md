@@ -3,21 +3,12 @@
 A simple archiver for working on golang using video. With a variable-length code according to the algorithm
 ![link](https://youtube.com/playlist?list=PLFAQFisfyqlX_pfTd09rT0zsl7BC6WTde&amp;si=EVhC81-5oZ1teAMV)
 
-##  Оглавление
-- [Установка](#установка)
-- [Использование](#использование)
-- [Примеры](#примеры)
-- [Технологии](#технологии)
-- [Разработка](#разработка)
-
-##  Installation
-
-# Cloning a repository
-```bash
-git clone https://github.com/KirillZharkov/A-simple-archiver
 
 
-##  Usage example
+#  Installation
+
+
+## Usage example
 ```bash
 # an archiver of the type is being created Archive.exe
 go build 
