@@ -1,12 +1,12 @@
 # A-simple-archiver
 
 A simple archiver for working on golang using video. With a variable-length code according to the algorithm
-![link](https://youtube.com/playlist?list=PLFAQFisfyqlX_pfTd09rT0zsl7BC6WTde&amp;si=EVhC81-5oZ1teAMV)
 
+# Link
 
+- **[Video](https://youtube.com/playlist?list=PLFAQFisfyqlX_pfTd09rT0zsl7BC6WTde&si=CW2Robm47IW1zvfz)** - example video
 
 #  Installation
-
 
 ## Usage example
 ```bash
@@ -31,3 +31,4 @@ rm example.txt
 cat exmple.txt
 
 # You can use another example in example.txt only without punctuation marks
+
